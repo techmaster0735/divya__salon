@@ -1,0 +1,1 @@
+DELETE FROM public.services WHERE gender='women' AND name IN ('Balayage / Highlights','Keratin Smoothening') AND sort_order IN (6,7);

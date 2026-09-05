@@ -1,0 +1,1 @@
+ALTER TABLE public.academy_media ADD COLUMN IF NOT EXISTS thumbnail_path text;

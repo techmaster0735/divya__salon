@@ -1,0 +1,1 @@
+UPDATE public.academy_media SET file_path = 'uploads/fa0a7580-h264.mp4' WHERE file_path = 'uploads/fa0a7580-8cc2-4923-87fe-e3cc72559c44.mp4';
